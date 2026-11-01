@@ -1,0 +1,21 @@
+{
+  "info": {
+    "_postman_id": "57de164d-a73c-42ec-ab34-27f3ce420b96",
+    "name": "AzureCognitiveServices",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "1347256"
+  },
+  "item": [
+    {
+      "name": "ComputerVision",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    }
+  ]
+}
